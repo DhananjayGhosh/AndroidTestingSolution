@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Android.Api/Android.Api.csproj" />
+  <Project Path="Android.Application/Android.Application.csproj" />
+  <Project Path="Android.Domain/Android.Domain.csproj" />
+  <Project Path="Android.Infrastructure/Android.Infrastructure.csproj" />
+</Solution>
